@@ -1,0 +1,12 @@
+C:\Users\akkas\Source\Repos\QuizAPI\QuizEntities\bin\Debug\QuizEntities.dll
+C:\Users\akkas\Source\Repos\QuizAPI\QuizEntities\bin\Debug\QuizEntities.pdb
+C:\Users\akkas\Source\Repos\QuizAPI\QuizEntities\obj\Debug\QuizEntities.csproj.AssemblyReference.cache
+C:\Users\akkas\Source\Repos\QuizAPI\QuizEntities\obj\Debug\QuizEntities.csproj.CoreCompileInputs.cache
+C:\Users\akkas\Source\Repos\QuizAPI\QuizEntities\obj\Debug\QuizEntities.dll
+C:\Users\akkas\Source\Repos\QuizAPI\QuizEntities\obj\Debug\QuizEntities.pdb
+C:\Users\akkas\Desktop\QuizAPI\QuizEntities\bin\Debug\QuizEntities.dll
+C:\Users\akkas\Desktop\QuizAPI\QuizEntities\bin\Debug\QuizEntities.pdb
+C:\Users\akkas\Desktop\QuizAPI\QuizEntities\obj\Debug\QuizEntities.csproj.AssemblyReference.cache
+C:\Users\akkas\Desktop\QuizAPI\QuizEntities\obj\Debug\QuizEntities.csproj.CoreCompileInputs.cache
+C:\Users\akkas\Desktop\QuizAPI\QuizEntities\obj\Debug\QuizEntities.dll
+C:\Users\akkas\Desktop\QuizAPI\QuizEntities\obj\Debug\QuizEntities.pdb
